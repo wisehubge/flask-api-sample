@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Software Development",
+        "description": "We help you to bring your business value as a Code",
+        "complexity": "High",
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "DevOps",
+        "description": "Bring DevOps adoption to your company",
+        "complexity": "Medium",
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "BigData",
+        "description": "Future is Data",
+        "complexity": "Medium",
+        "active": false
+    },
+    {
+        "id": 4,
+        "name": "OS Support",
+        "description": "We will manage your Desktops",
+        "complexity": "Easy",
+        "active": true
+    },
+    {
+        "active": false,
+        "complexity": "High",
+        "description": "Some description",
+        "id": 5,
+        "name": "Something"
+    }
+]
